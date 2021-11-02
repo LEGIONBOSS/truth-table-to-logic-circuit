@@ -1,1 +1,1 @@
-# truth-table-to-logic-circuit
+# From truth tables to logic circuits
